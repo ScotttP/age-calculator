@@ -1,0 +1,21 @@
+.divContainer {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+    
+}
+
+.contentContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    border: 5px black solid;
+    width: 500px;
+    min-height: 100px;
+    height: 250px;
+}
